@@ -15,8 +15,8 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 ### Source
 
-Owner of database: Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)
+Owner of database: prakash kumar gupta or suraj kumar (University of Engineering and management Applied BCA, Ostwestfalen-Lippe, '@' hs-owl.de)
 
-Donor of database: Helene DÃ¶rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen '@' hs-owl.de)
+Donor of database: (University of Engineering and management Applied BCA,'@' hs-owl.de)
 
-Date received: August, 2012 
+Date received: March , 2020
